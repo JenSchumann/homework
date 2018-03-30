@@ -2,7 +2,7 @@
   "name": "homework",
   "version": "1.0.0",
   "description": "Ad Hoc homework problems ========================",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -18,6 +18,5 @@
   },
   "homepage": "https://github.com/JenSchumann/homework#readme",
   "dependencies": {
-    "express": "^4.16.2"
   }
 }
